@@ -16,7 +16,7 @@ let fase = unityFase.fase;
 
 console.log(`unidade : ${unidade}, fase : ${fase}`);
 
-console.log(progress.progresso[unidade].fases[fase])
+console.log(progress.progresso[unidade].fases[fase]);
 
 const content = json;
 const imgHeader = document.querySelector("#header-img-theme");
@@ -30,7 +30,7 @@ const imgItem = document.querySelectorAll(".main-img-themeImg");
 const mainVideo = document.querySelector("#main-video-1");
 const mainUl = document.querySelector("#main-ul-complement");
 const btnNext = document.querySelector("#main-btn-nextLesson");
-const bodyLesson = document.querySelector('body');
+const bodyLesson = document.querySelector("body");
 // Troca de conteúdo:
 // titlePage.textContent = content[unidade].unity[fase].title.toUpperCase();
 // bodyLesson.innerHTML = content[unidade].unity[fase].body;
@@ -41,26 +41,26 @@ const bodyLesson = document.querySelector('body');
 // mainVideo.src = content[3].unity[0].video;
 // mainUl.innerHTML = content[3].unity[0].mainUl;
 // divImages.innerHTML = content[0].unity[0].imgMain;
-
+titlePage.textContent = content[unidade].unity[fase].title.toUpperCase();
+bodyLesson.innerHTML = content[unidade].unity[fase].body;
 
 // console.log(content[0]);
 btnNext.addEventListener("click", async () => {
     console.log("clicou");
     // const proxFase = parseInt(fase) + 1;
-    if(parseInt(fase) === content[unidade].unity.length-1){
-        console.log("quiz")
+    if (parseInt(fase) === content[unidade].unity.length - 1) {
+        console.log("quiz");
         window.location.href = "./question.html";
-    }else if (content[unidade].unity.length < parseInt(fase)) {
-        
+    } else if (content[unidade].unity.length < parseInt(fase)) {
         unidade = parseInt(unidade) + 1;
         fase = 0;
 
         progress.progresso[unidade].fases[fase] = true;
-        if(progress.progresso[unidade].passouNaProva === false){
-            progress.progresso[unidade].passouNaProva = true
+        if (progress.progresso[unidade].passouNaProva === false) {
+            progress.progresso[unidade].passouNaProva = true;
         }
 
-        localStorage.setItem("progressoUsuario" , JSON.stringify(progress))
+        localStorage.setItem("progressoUsuario", JSON.stringify(progress));
 
         localStorage.setItem(
             "botãoClicado",
@@ -70,13 +70,11 @@ btnNext.addEventListener("click", async () => {
             })
         );
         window.location.href = "./lesson.html";
-    }
-    else{
-
+    } else {
         progress.progresso[unidade].fases[fase] = true;
-        progress.progresso[unidade].fases[parseInt(fase)+1] = true;
+        progress.progresso[unidade].fases[parseInt(fase) + 1] = true;
 
-        localStorage.setItem("progressoUsuario" , JSON.stringify(progress))
+        localStorage.setItem("progressoUsuario", JSON.stringify(progress));
 
         localStorage.setItem(
             "botãoClicado",
@@ -92,8 +90,8 @@ btnNext.addEventListener("click", async () => {
                 method: "PUT",
                 body: JSON.stringify({
                     user: user._id,
-                    progresso : {
-                        ...progress.progresso
+                    progresso: {
+                        ...progress.progresso,
                     },
                 }),
                 headers: { "Content-Type": "application/json" },
@@ -103,5 +101,3 @@ btnNext.addEventListener("click", async () => {
         window.location.href = "./lesson.html";
     }
 });
-
-
