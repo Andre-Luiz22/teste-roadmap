@@ -1,0 +1,475 @@
+[
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Seu paciente acaba de chegar à UBS (Unidade Básica de Saúde) em que você trabalha, e o mesmo apresenta 120 bpm. Qual termo técnico se enquadra no caso acima?",
+                "optionA": "Normocardia",
+                "optionB": "Taquicardia",
+                "optionC": "Bradicardia",
+                "optionD": "Taquipneia",
+                "fase" : "3"
+            },
+            {
+                "id": "question2",
+                "question": "Assinale a alternativa que apresenta um cuidado a ser realizado no preparo do paciente para a aferição da pressão arterial:",
+                "optionA": "Aferir a pressão após esforço/exercício.",
+                "optionB": "Evitar estar com a bexiga cheia.",
+                "optionC": "Não estar com fome, ingerir café e bolachas 10 minutos antes.",
+                "optionD": "Conversar com o paciente durante a aferição.",
+                "fase" : "4"
+            },
+            {
+                "id": "question3",
+                "question": "A aferição dos sinais vitais é uma prática fundamental na avaliação do estado de saúde de um paciente. Qual das alternativas abaixo NÃO é considerada um sinal vital?",
+                "optionA": "Frequência cardíaca",
+                "optionB": "Nível de glicose no sangue",
+                "optionC": "Dor",
+                "optionD": "Pressão arterial", 
+                "fase" : "0"
+            },
+            {
+                "id": "question4",
+                "question": "É CORRETO afirmar que a temperatura corporal normalmente muda de 0,5°C a 1°C durante um período de:",
+                "optionA": "24 horas",
+                "optionB": "48 horas",
+                "optionC": "6 horas",
+                "optionD": "12 horas",
+                "fase" : "1"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Sobre o protocolo de manchester, marque a alternativa INCORRETA: ",
+                "optionA": "A classificação consta com um sistema com 5 cores",
+                "optionB": "O protocolo estabelece a cor azul como pouco urgente e a laranja como emergência",
+                "optionC": "É um sistema de triagem adotado pelo hospitais e serviços de saúde do Brasil ",
+                "optionD": "O protocolo prioriza o atendimento, garantindo que os pacientes mais graves sejam atendidos primeiro",
+                "fase" : "0"
+            },
+            {
+                "id": "question2",
+                "question": "Qual o tempo de espera aceitável para a cor laranja na triagem?",
+                "optionA": "4 horas",
+                "optionB": "10 minutos",
+                "optionC": "1 hora",
+                "optionD": "5 minutos",
+                "fase" : "1"
+            },
+            {
+                "id": "question3",
+                "question": "Sobre a implementação do protocolo de manchester é correto afirmar:",
+                "optionA": "O enfermeiro e o técnico de enfermagem podem executar o protocolo, desde que tenha o curso de capacitação",
+                "optionB": "Apenas o enfermeiro pode executar o protocolo, desde que tenha o curso de capacitação",
+                "optionC": "O tempo médio para cada classificação deve ser de 10 minutos",
+                "optionD": "O número de classificações por hora deve ser maior que 20",
+                "fase" : "2"
+            },
+            {
+                "id": "question4",
+                "question": "Classifique as seguinte alternativas sobre as vantagens do protocolo de manchester com F (falso) e V (verdadeiro): ( ) o protocolo estabelece um padrão para os atendimentos; ( )favorece o descanso dos profissionais de saúde; ( ) reduz índices de óbito e agravamento de quadros; ( ) causa filas desorganizadas e superlotação.",
+                "optionA": "V-V-F-V",
+                "optionB": "V-F-V-F",
+                "optionC": "V-F-F-V",
+                "optionD": "F-V-V-F",
+                "fase" : "3"
+            },
+            {
+                "id": "question5",
+                "question": "Para aplicar o protocolo no processo de triagem, é importante ter alguns equipamentos e materiais que serão utilizados no momento da avaliação do paciente, exceto: ",
+                "optionA": "Termômetro",
+                "optionB": "Jelco e scalp",
+                "optionC": "Estetoscópio",
+                "optionD": "Oxímetro",
+                "fase" : "4"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Qual é a importância das escalas em uma urgência e emergência?",
+                "optionA": "É importante conhecer o paciente",
+                "optionB": "É importante pois é através das escalas que é possível mensurar o nível de consciência dos pacientes. E a partir desses dados podemos encaminhar o paciente de maneira mais segura",
+                "optionC": "É importante somente na urgência já que na Emergência não é necessário",
+                "optionD": "É importante porque através da escala podemos enviar o paciente para o CME",
+                "fase" : "0"
+            },
+            {
+                "id": "question2",
+                "question": "Qual o grau leve e grave das escalas?",
+                "optionA": "2 a 8 leve, e 13 a 15 Grave na escala de Glasgow, na escala de Ramsay é de 1 a 7 níveis",
+                "optionB": "2 a 8 grave e 13 a 15 é Leve na escala de Glasgow e na escala de Ramsay 1 a 6",
+                "optionC": "3 e 4 é grave e 12 e 14 é Gravíssimo na escala de Glasgow, e escala de Ramsay é de 1 a 5 níveis",
+                "optionD": "2 a 8 grave e 13 a 15 Grave na escala de Glasgow e 1 a 6 na escala de Ramsay",
+                "fase" : "2"
+            },
+            {
+                "id": "question3",
+                "question": "As escalas são aplicadas por quem?",
+                "optionA": "Apenas o médico ",
+                "optionB": "Médico e técnico de enfermagem ",
+                "optionC": "Apenas técnico de enfermagem ",
+                "optionD": "Técnico de enfermagem",
+                "fase" : "1"
+            },
+            {
+                "id": "question4",
+                "question": "Qual o nível de atenção das escalas?",
+                "optionA": "Secundário",
+                "optionB": "Primário",
+                "optionC": "Terciário",
+                "optionD": "Nenhuma",
+                "fase" : "3"
+            },
+            {
+                "id": "question5",
+                "question": "Qual das alternativas a baixo a escala de Glasgow não identifica?",
+                "optionA": "Abertura ocular",
+                "optionB": "Coloração da pele",
+                "optionC": "Resposta verbal",
+                "optionD": "Resposta pupilar",
+                "fase" : "4"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Homem, 55 anos deu entrada no serviço de urgência e emergência bastante confuso após um acidente de carro em uma rodoviária, ele se encontra com uma hemorragia no tórax, com náuseas e sensação de desmaio. Diante desses dados, qual choque se enquadra nesse caso?",
+                "optionA": "Choque Cardiogênico",
+                "optionB": "Choque Hipovolêmico",
+                "optionC": "Choque Distributivo",
+                "optionD": "Choque Obstrutivo",
+                "fase" : "1"
+            },
+            {
+                "id": "question2",
+                "question": "A circulação sanguínea tem um papel muito importante para que um corpo não entre em estado de choque. Diante disso, quando ocorre a falta de circulação sanguínea os tecidos do nosso corpo geram uma perda total, isso acontece principalmente devido: ",
+                "optionA": "A má formação dos tecidos",
+                "optionB": "A falta de oxigênio no corpo",
+                "optionC": "Ao aumento de vasos sanguíneos ",
+                "optionD": "A falta de glóbulos brancos",
+                "fase": "0"
+            },
+            {
+                "id": "question3",
+                "question": "São formas de ajudar uma pessoa que está em estado de choque, exceto:",
+                "optionA": "Manter a vítima aquecida ",
+                "optionB": "Administrar líquido e medicamentos pela boca",
+                "optionC": "Levantar as pernas e virar a cabeça de lado",
+                "optionD": "Afrouxar as roupas da vítima",
+                "fase" : "3"
+            },
+            {
+                "id": "question4",
+                "question": "São sintomas de choque séptico, exceto:",
+                "optionA": "Confusão Mental",
+                "optionB": "Desmaio",
+                "optionC": "Calafrios",
+                "optionD": "Diminuição da urina",
+                "fase" : "2"
+            },
+            {
+                "id": "question5",
+                "question": "Identifique como verdadeiras (V) ou falsas (F) as afirmações abaixo. Na sequência, assinale a alternativa correta: ( ) A perfusão capilar não é útil para avaliar o volume sanguíneo do paciente. ( ) As causas do choque distributivo são: Anafilaxia; Infecção bacteriana pela liberação de endotoxina; Lesão medular grave; Ingestão de certos fármacos ou venenos, como nitratos, opioides e bloqueadores adrenérgicos. ( ) O choque distributivo é dividido em três choques: séptico que ocorre devido a uma infecção generalizada, anafilático que ocorre devido a uma alergia intensa e o neurogênico que ocorre devido a lesões no sistema nervoso central. ( ) O choque anafilático é um colapso circulatório provocado por uma intensa reação alérgica, que afeta apenas crianças e idosos, causando diminuição do fluxo de sangue para os órgãos vitais.",
+                "optionA": "F – F – V – V",
+                "optionB": "F - V - V - F",
+                "optionC": "V – F – F - V",
+                "optionD": "V- V – F - V",
+                "fase" : "2"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Quais são os sintomas comuns de uma hemorragia?",
+                "optionA": "Palidez, aumento temporário da força muscular na região atingida e formigamento",
+                "optionB": "Dor intensa, palidez, pulso rápido",
+                "optionC": "Pulso rápido e formigamento persistente no local",
+                "optionD": "Zumbido nos ouvidos e sensação de calor na região afetada",
+                "fase" : "1"
+            },
+            {
+                "id": "question2",
+                "question": "Quais são as principais causas de hemorragias?",
+                "optionA": "Exposição prolongada à luz solar intensa, pois causa distúrbio de coagulação",
+                "optionB": "Trauma físico, distúrbios de coagulação e úlceras",
+                "optionC": "Excesso de pensamentos negativos, estresse emocional e trauma físico",
+                "optionD": "Consumo excessivo de gordura, pois pode afinar o sangue",
+                "fase" : "1"
+            },
+            {
+                "id": "question3",
+                "question": "Como identificar a gravidade de uma hemorragia?",
+                "optionA": "Volume de sangue perdido, frequência cardíaca e pressão arterial",
+                "optionB": "Fortes dores de cabeça, falta de ar ou dificuldade de respirar e palpitações fortes",
+                "optionC": "Pressão arterial e identificar se a pessoa afetada pode recitar poemas de Shakespeare",
+                "optionD": "Idade da pessoa afetada e local da hemorragia",
+                "fase" : "2"
+            },
+            {
+                "id": "question4",
+                "question": "Quais são os primeiros socorros recomendados para uma hemorragia?",
+                "optionA": "Aplicar gelo diretamente na área sangrando para acelerar a coagulação",
+                "optionB": "Aplicar pressão direta, elevar parte afetada e chamar ajuda médica",
+                "optionC": "Ingerir analgésicos antes de buscar ajuda médica para aliviar a dor causada pela hemorragia",
+                "optionD": "Lavar a ferida para tentar remover o excesso de sangue",
+                "fase" : "4"
+            },
+            {
+                "id": "question5",
+                "question": "Existem fatores de risco específicos associados a hemorragias?",
+                "optionA": "O consumo frequente de alimentos vermelhos",
+                "optionB": "Doenças hepáticas, uso de anticoagulantes e hipertensão arterial",
+                "optionC": "Uso de anticoagulantes apenas",
+                "optionD": "Prática regular de atividades físicas",
+                "fase" : "5"
+            },
+            {
+                "id": "question6",
+                "question": "Quando uma hemorragia deve ser considerada uma emergência médica?",
+                "optionA": "Somente se a hemorragia ocorrer durante um dia de semana e for em menores de 30 anos",
+                "optionB": "Em caso de hemorragia interna, quando há perda significativa de sangue, ou se a hemorragia não estanca com pressão",
+                "optionC": "Quando a hemorragia é causada por uma ferida de menos de 2 centímetros",
+                "optionD": "Se a pessoa afetada estiver com nariz avermelhado",
+                "fase" : "2"
+            },
+            {
+                "id": "question7",
+                "question": "Pode fazer compressão torácica em quem está tendo uma hemorragia?",
+                "optionA": "Não, pode agravar a hemorragia",
+                "optionB": "Depende da causa da hemorragia",
+                "optionC": "Sim, em casos de hemorragia externa",
+                "optionD": "Apenas se a pessoa afetada estiver consciente",
+                "fase" : "4"
+            },
+            {
+                "id": "question8",
+                "question": "Como prevenir hemorragias em situações cotidianas?",
+                "optionA": "Utilizar medicamentos anticoagulantes diariamente, mesmo sem prescrição médica e usar equipamentos de proteção",
+                "optionB": "Usar equipamento de proteção; Evitar atividades de alto risco; Manter objetos cortantes fora do alcance",
+                "optionC": "Ingerir grandes quantidades de sal diariamente para fortalecer os vasos sanguíneos e evitar atividades de alto risco",
+                "optionD": "Praticar exercícios para fortalecer as mãos e evitar acidentes com objetos cortantes",
+                "fase" : "0"
+            },
+            {
+                "id": "question9",
+                "question": "Quais são os tratamentos médicos disponíveis para diferentes tipos de hemorragias?",
+                "optionA": "Transfusão de sangue; Meditação para reduzir o fluxo sanguíneo e controlar hemorragias",
+                "optionB": "Administração de medicamentos hemostáticos; Transfusão de sangue e cirugia para reparo vascular",
+                "optionC": "Cirurgia para reparo vascular; Aplicação tópica de açafrão para acelerar a coagulação sanguínea e administração de suplementos de vitamina C para prevenir hemorragias internas",
+                "optionD": "Aplicação de compressas quentes diretamente na área afetada, promovendo a coagulação sanguínea.",
+                "fase" : "4"
+            },
+            {
+                "id": "question10",
+                "question": "Qual é a importância de procurar ajuda médica imediata em casos de hemorragia grave?",
+                "optionA": "Não tem importância alguma, deve-se ignorar a hemorragia e esperar alguns dias para que ela pare por si só, pois isso é comum",
+                "optionB": "Evitar choque hipovolêmico; Reduzir o risco de complicações; Garantir tratamento adequado",
+                "optionC": "Apenas garantir tratamento adequado",
+                "optionD": " Ignorar a hemorragia e aguardar, pois o corpo naturalmente controlará o sangramento sem a necessidade de intervenção médica.",
+                "fase" : "1"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Um idoso, ao ser atropelado por um carro, chegou ao hospital para atendimento recorrente de um sofrimento de traumatismo craniano, ele deve ser avaliado por qual das escalas a seguir?",
+                "optionA": "Escala de Ritcher",
+                "optionB": "Escala de Glasgow",
+                "optionC": "Escala de Ramsay",
+                "optionD": "Escala de Bristol",
+                "fase" : "0"
+            },
+            {
+                "id": "question2",
+                "question": "O trauma cranioencefálico é uma lesão física no tecido cerebral que, temporária ou permanentemente, incapacita a função cerebral. O diagnóstico é suspeitado clinicamente e confirmado por imagens. A Escala de Coma de Glasgow (ECG). Tem como objetivo identificar os  principais indicadores da gravidade no Traumatismo Crânioencefálico (TCE) em uma escala simples, para medir o nível de consciência após uma lesão cerebral. A soma dos pontos da escala vai de 3 (mínimo) a 15 (máximo). Sobre a Escala de Coma de Glasgow (ECG), assinale a afirmativa CORRETA.",
+                "optionA": "Se a soma dos resultados ficar entre 3 e 10, o trauma é considerado leve",
+                "optionB": "São avaliados três parâmetros: abertura ocular, resposta verbal e resposta motora",
+                "optionC": "Se a soma dos resultados ficar entre 14 e 15, o trauma é considerado moderado",
+                "optionD": "O profissional responsável na verificação de tais informações, segue tirando ponto além do que é permitido pela escala. Devido ao agravamento dos ferimentos.",
+                "fase" : "5"
+            },
+            {
+                "id": "question3",
+                "question": "O Traumatismo Cranioencefálico (TCE) é uma lesão cerebral causada por um impacto na cabeça. O trauma pode ocasionar somente uma ausência de consciência ou a perda de algumas habilidades cognitivas dependendo da força do impacto. Sobre a localidade do trauma, indique a(s) alternativas correta(s):  I- Crânio, meninges, tornozelo, coração; II- Glândula lagrimal, cérebro; III- Tórax, coluna cervical, couro cabeludo, crânio; IV- Couro cabeludo, crânio, meninges, encéfalo e nervos cranianos.",
+                "optionA": "I e III estão CORRETAS",
+                "optionB": "Somente IV está CORRETA",
+                "optionC": "Somente III está CORRETA",
+                "optionD": "Somente II e IV estão CORRETAS",
+                "fase" : "1"
+            },
+            {
+                "id": "question4",
+                "question": "De acordo com o tipo de lesão, podemos classificar uma fratura de diferentes formas. Quando a extremidade cortante de um osso penetra a pele de dentro para fora é chamada de:",
+                "optionA": "Fechadas",
+                "optionB": "Abertas",
+                "optionC": "Fraturas por estresse",
+                "optionD": "Traumáticas",
+                "fase" : "3"
+            },
+            {
+                "id": "question5",
+                "question": "Referente a lesão entorse, qual é o nível de Grau II?",
+                "optionA": "Micro lesões ligamentares",
+                "optionB": "Ruptura parcial do ligamento, gera uma leve frouxidão da articulação",
+                "optionC": "Secundárias (após o trauma, resultando em edema cerebral ou formação de hematomas)",
+                "optionD": "Primarias (resultado imediato e direto do trauma)",
+                "fase" : "5"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Qual a função do protocolo XABCDE? ",
+                "optionA": "Usado para classificar os riscos apenas dentro das UBS e definir quais são os pacientes que precisam de um atendimento prioritário",
+                "optionB": "Padronizar o atendimento para identificar lesões potencialmente fatais ao indivíduo.",
+                "optionC": "Através desse protocolo que é possível mensurar apenas o nível de consciência dos pacientes.",
+                "optionD": "Servem para alertar os profissionais sobre fatores que podem ocasionar os erros de medicação.",
+                "fase" : "0"
+            },
+            {
+                "id": "question2",
+                "question": "Qual das alternativas abaixo está correta:",
+                "optionA": "A fase do trauma, denominada pré-impacto e a segunda fase do trauma.",
+                "optionB": "Todas as alternativas acima estão incorretas.",
+                "optionC": "As lesões causadas pelo impacto de um acidente automobilístico e considerado um trauma pós impacto.",
+                "optionD": "A fase do impacto, só acontece em acidentes que envolvem veículos de locomoção.",
+                "fase" : "1"
+            },
+            {
+                "id": "question3",
+                "question": "Qual característica define os traumas penetrantes?",
+                "optionA": "Lesões resultantes de impactos ou forças extremas.",
+                "optionB": "Lesões que envolvem uma combinação de penetração de objetos e fraturas expostas.",
+                "optionC": "Lesões sem perfuração da pele, com danos aos tecidos superficiais.",
+                "optionD": "Lesões causadas por quedas, pancadas, ou acidentes automobilísticos.",
+                "fase" : "2"
+            },
+            {
+                "id": "question4",
+                "question": "Qual o objetivo da imobilização?",
+                "optionA": "Imobilizar para prevenir complicações severas dos traumas.",
+                "optionB": "Todas estão corretas.",
+                "optionC": "Mobilizar corretamente com colar cervical e impedir movimentos. ",
+                "optionD": "Impedir os movimentos de uma extremidade traumatizada.",
+                "fase" : "3"
+            },
+            {
+                "id": "question5",
+                "question": "Em qual tipo de fratura o paciente não poderá ser realinhado?",
+                "optionA": "Fraturas Fechadas",
+                "optionB": "Fratura Expostas",
+                "optionC": "Fratura na Pelve",
+                "optionD": "Em todas as fraturas citadas",
+                "fase" : "4"
+            },
+            {
+                "id": "question6",
+                "question": "Qual é o número mínimo de socorristas pra fazer o pranchamento correto?",
+                "optionA": "1",
+                "optionB": "3",
+                "optionC": "8",
+                "optionD": "6",
+                "fase" : "5"
+            },
+            {
+                "id": "question7",
+                "question": "Qual alternativa abaixo NÃO é utilizada para fazer um curativo?",
+                "optionA": "Água oxigenada",
+                "optionB": "Torniquete",
+                "optionC": "Álcool",
+                "optionD": "Solução de iodo",
+                "fase" : "6"
+            },
+            {
+                "id": "question8",
+                "question": "Qual é o tipo de fratura em que o osso está quebrado em um ângulo?",
+                "optionA": "Fratura comunitiva",
+                "optionB": "Fratura oblíqua",
+                "optionC": "Fratura transversal",
+                "optionD": "Fratura espiral",
+                "fase" : "2"
+            }
+        ]
+    },
+    {
+        "quiz": [
+            {
+                "id": "question1",
+                "question": "Quando ocorre uma Parada Cardiorrespiratória (PCR), qual é o equipamento que pode ser utilizado para restaurar o ritmo cardíaco normal?",
+                "optionA": "Monitor cardíaco",
+                "optionB": "Desfibrilador externo automático (DEA)",
+                "optionC": "Oxímetro de pulso",
+                "optionD": "Estetoscópio",
+                "fase" : "0"
+            },
+            {
+                "id": "question2",
+                "question": "Qual das seguintes ações é recomendada para garantir a segurança no atendimento?",
+                "optionA": "Realizar compressões torácicas de forma intermitente",
+                "optionB": "Comunicar-se de forma clara e eficaz com a equipe médica e outros socorristas presente",
+                "optionC": "Não utilizar equipamentos de proteção individual (EPIs)",
+                "optionD": "Realizar compressões torácicas de forma intermitente",
+                "fase" : "2"
+            },
+            {
+                "id": "question3",
+                "question": "Durante uma Parada Cardiorrespiratória (PCR), qual das seguintes ações é recomendada antes de iniciar as compressões torácicas?",
+                "optionA": "Posicionar a vítima em uma superfície macia",
+                "optionB": "Posicionar a vítima deitada em uma superfície firme e rígida",
+                "optionC": "Realizar a desfibrilação imediatamente",
+                "optionD": "Solicitar ajuda adicional sem verificar o pulso da vitima",
+                "fase" : "1"
+            },
+            {
+                "id": "question4",
+                "question": "Qual das seguintes opções NÃO é uma causa comum da Parada Cardiorrespiratória (PCR)?",
+                "optionA": "Doença cardíaca coronariana",
+                "optionB": "Acidentes com animais peçonhentos",
+                "optionC": "Insuficiência cardíaca",
+                "optionD": "Traumatismo grave",
+                "fase" : "4"
+            },
+            {
+                "id": "question5",
+                "question": "Qual é a profundidade recomendada para as compressões torácicas durante a RCP em um adulto?",
+                "optionA": "3 a 4 centímetros",
+                "optionB": "5 a 6 centímetros",
+                "optionC": "7 a 8 centímetros",
+                "optionD": "9 a 10 centímetros",
+                "fase" : "1"
+            },
+            {
+                "id": "question6",
+                "question": "Qual desses sinais clínicos NÃO é sinail de uma PCR",
+                "optionA": "Apneia",
+                "optionB": "Eupneia",
+                "optionC": "Dilatação das pupilas",
+                "optionD": "Cianose",
+                "fase" : "5"
+            },
+            {
+                "id": "question7",
+                "question": "Ao iniciar a RCP, qual o ciclo recomendado de compressões torácicas?",
+                "optionA": "30 compressões eficientes (na frequência de 100 a 120/min, deprimindo o tórax em 4 a 5 cm com completo retorno)",
+                "optionB": "30 compressões eficientes (na frequência de 100 a 120/min, deprimindo o tórax em 5 a 6 cm com completo retorno)",
+                "optionC": "30 compressões eficientes (na frequência de 75 a 100/min, deprimindo o tórax em 5 a 6 cm com completo retorno)",
+                "optionD": "25 compressões eficientes (na frequência de 100 a 120/min, deprimindo o tórax em 5 a 6 cm com completo retorno)",
+                "fase" : "6"
+            }
+        ]
+    }
+]
