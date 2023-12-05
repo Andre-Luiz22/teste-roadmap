@@ -29,7 +29,6 @@ const divImages = document.querySelector(".main-div-images");
 const imgItem = document.querySelectorAll(".main-img-themeImg");
 const mainVideo = document.querySelector("#main-video-1");
 const mainUl = document.querySelector("#main-ul-complement");
-const btnNext = document.querySelector("#main-btn-nextLesson");
 const bodyLesson = document.querySelector("body");
 // Troca de conteúdo:
 // titlePage.textContent = content[unidade].unity[fase].title.toUpperCase();
@@ -43,6 +42,7 @@ const bodyLesson = document.querySelector("body");
 // divImages.innerHTML = content[0].unity[0].imgMain;
 titlePage.textContent = content[unidade].unity[fase].title.toUpperCase();
 bodyLesson.innerHTML = content[unidade].unity[fase].body;
+const btnNext = document.querySelector("#main-btn-nextLesson");
 
 // console.log(content[0]);
 btnNext.addEventListener("click", async () => {
